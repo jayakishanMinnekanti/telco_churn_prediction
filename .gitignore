@@ -1,0 +1,66 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Keep the main notebook
+# main.ipynb is intentionally tracked
+
+# Virtual environment
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+
+# VSCode settings
+.vscode/
+
+# PyCharm settings
+.idea/
+*.iml
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+
+# Environment files
+.env
+.env.*
+
+# Python egg and build files
+*.egg
+*.egg-info/
+dist/
+build/
+*.manifest
+*.spec
+
+# Output files and models
+outputs/models/
+outputs/plots/
+
+# MacOS system files
+.DS_Store
+
+# Data cache or backups
+*.bak
+*.csv~
+*.pkl
+*.json~
+
+# Test and coverage reports
+coverage/
+htmlcov/
+.tox/
+.nox/
+.cache/
+.pytest_cache/
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/

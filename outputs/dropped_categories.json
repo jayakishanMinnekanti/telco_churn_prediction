@@ -1,0 +1,17 @@
+{
+    "gender": "Female",
+    "Partner": "No",
+    "Dependents": "No",
+    "PhoneService": "No",
+    "MultipleLines": "No",
+    "InternetService": "DSL",
+    "OnlineSecurity": "No",
+    "OnlineBackup": "No",
+    "DeviceProtection": "No",
+    "TechSupport": "No",
+    "StreamingTV": "No",
+    "StreamingMovies": "No",
+    "Contract": "Month-to-month",
+    "PaperlessBilling": "No",
+    "PaymentMethod": "Bank transfer (automatic)"
+}

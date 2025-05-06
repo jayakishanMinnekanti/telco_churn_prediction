@@ -1,0 +1,9 @@
+pandas~=2.2.3
+numpy~=2.2.5
+scikit-learn~=1.6.1
+xgboost~=3.0.0
+imbalanced-learn~=0.13.0
+joblib~=1.5.0
+shap~=0.47.2
+matplotlib~=3.10.1
+seaborn~=0.13.2
